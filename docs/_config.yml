@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 repository: tomjoht/documentation-theme-jekyll
 
 output: web
@@ -117,3 +118,11 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 
 
 github: [metadata]
+=======
+title: Duke of Lancaster Regiment Field Training Manual
+logo: /_static/logo.png
+description: Field Training Manual for the Duke of Lancaster Regiment Arma 3 Unit
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+>>>>>>> parent of c777915... changes to folder structure
