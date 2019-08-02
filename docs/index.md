@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to the Duke of Lancaster Regiment - Field Training Manual
+## About the Duke of Lancaster Regiment
+The Duke of Lancaster Regiment (DLR) is an Arma 3 MILSIM unit providing authentic MILSIM operations utilising British military tactics and equipment.
 
-You can use the [editor on GitHub](https://github.com/blucreative/dlr-arma3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+If you are interested in joining an Arma 3 unit with strong dedication to British MILSIM, please visit our website at [drl-arma3.co.uk](http://www.dlr-arma3.co.uk).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About the Field Training Manual
+The DLR Field Training Manual is our central repository for all our written information and documentation. It forms the central structure for policies and tactics of the unit, both inside and outside of the Arma 3 game environment. The entire manual is published at [docs.dlr-arma3.co.uk](http://docs.dlr-arma3.co.uk).
 
-### Markdown
+The training detailed in this manual is mostly specific to our specific game environment, but much is portable within the wider Arma community. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blucreative/dlr-arma3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The DLR must thank the [1st Rapid Response Force](https://documentation.1st-rrf.com/index.html), for providing the basis of this training manual and a root structure to work from.
