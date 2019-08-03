@@ -29,8 +29,6 @@ p {
 
 a {
   color: $link-color;
-  
-  :hover {
-    color: $color-red;
-  }
 }
+
+a:hover {color: $color-red;}
