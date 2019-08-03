@@ -2,3 +2,20 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+$color-red: #e43d4e;
+$color-dark: #34313f;
+$color-grey: #808080;
+$color-white: #ffffff;
+
+body {
+  background-color: $color-dark;
+}
+
+h1 {
+  color: $color-red;
+}
+
+p {
+  color: $color-grey;
+}
