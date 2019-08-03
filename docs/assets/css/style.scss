@@ -7,6 +7,7 @@ $color-red: #e43d4e;
 $color-dark: #34313f;
 $color-grey: #808080;
 $color-white: #ffffff;
+$link-color: #337ab7;
 
 body {
   background-color: $color-dark;
@@ -24,4 +25,12 @@ h3 {color: $color-grey;}
 
 p {
   color: $color-grey;
+}
+
+a {
+  color: $link-color;
+  
+  :hover {
+    color: $color-red;
+  }
 }
