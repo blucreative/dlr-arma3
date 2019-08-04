@@ -1,156 +1,87 @@
-Qualification Programs
-=========================
+# Training Modules
+Training in LANCS is split into Modules which are awarded upon completion of the requisite training goals.
 
-Training in the 1st RRF is split into Qualifications which are awarded upon completion of the requisite training goals.
+Below you will find a list of each module that the unit offers.
+Within each module the criteria are established alongside the provided access or equipment that the course unlocks upon completion.
 
-Below you will find a list of each qualification the unit offers. 
-Within each qualification the criteria are established alongside the provided access or equipment that the course unlocks upon completion.
+## Training Process
+To achieve a training goal you must be qualified as complete and compliant with published standard of the module by a member of the LANCS training/recruitment team.
 
-Qualification Process
-----------------------
+Once the qualifying member believes the goal has been reasonably established he should submit a summary Module Completion Notice in Discord which will notify senior leadership of the accreditation of the trained individual.
 
-To achieve a training goal you must be qualified as complete and compliant with published standard of the goal by a member who has already completed the goal.
+Training modules **must be witnessed** and cannot be taken on candidate's implied or stated merit.
 
-To certify a member on a goal it is not necessary that the certifying member has completed all aspects of the qualification to which the goal belongs.
+Training modules must be completed in an official training environment and cannot be awarded for actions taken during operations.
 
-Once the qualifying member believes the goal has been reasonably established he should submit a summary Training Completion Form (TCF) which will notify S1 of the accreditation of the trained individual.
+Training modules can however be awarded outside of official Unit Training Excercises.
 
-Training goals **must be witnessed** and cannot be taken on candidate's implied or stated merrit.
+Senior Leadership members will process the training module goals and, upon module completion, grant the award of any completed modules to the awarded member.
 
-Training goals must be completed in an official training environment and cannot be awarded for actions taken during operations.
+## Modules
+### Universal Introductory Program
+- Configure Teamspeak Name
+- Configure Name in Arma 3
+- Download and configure Arma 3 Mods
+- Succesfully connect to LANCS Arma 3 Server
 
-Training goals can however be awarded outside of official Unit Training Excercises.
+### Basic Infantry Training
+- Has been informed, and can recall details, about the ROE and Laws of War
+- Weapon Safety
+- Has a standard compliant loadout setup in the Arsenal
+- Basic Formations ( Arrowhead, Extended Line, Single File, Staggered File )
+- Able to safely employ Fragmentation Grenades
+- Configuration and employment of radio equipment
+- Understanding of when to use a radio and when to use voice communication
+- Is able to read a grid coordinate from a standard map
 
-S1 will process the training goal and upon program completion grant the award of any completed programs to the awarded member.
+### Automatic Rifleman Training
+- Has a standard compliant loadout setup in the Arsenal
+- Employment of a Light Machine Gun
+- Managing Ammunition
+- Supporting the weapon system with a bipod
+- Managing barrel temperature
+- Changing the barrel
 
-Programs
-----------
+### Designated Marksman Training
+- Has a standard compliant loadout setup in the Arsenal
+- Is able to zero an optic
+- Understands the role of a DMR in the fireteam
+- Is able to measure and adjust for basic windage
+- Ranging targets
+- Able to use mildots to engage targets at variable ranges
 
-Universal Introductory Program
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Grenadier Training
+- Has a standard compliant loadout setup in the Arsenal
+- Is able to range standard issue underslung grenade launcher by adjusting the sight distance
+- Understands the role of the grenadier in the fireteam
+- Is able to safely employ a flash grenade
+- Has been exposed to the effects of a flash grenade
 
-* Configure Teamspeak Name
-* Configure Name in ARMA III
-* Configure CAC card as Avatar on Teamspeak
-* Download and configure Modpack
-* Succesfully connect to ARMA Server
+### Night Warfare Training
+- Can effectively employ of Night Vision Goggles including the adjustment of the Intensity relative to background light levels
+- Understands Night time markings and IFF techniques
+- Is able to maintain good light and noise discipline during night operations
+- Use of the AN/PEQ 15 Laser as an aiming and marking device
+- Use of a flashlight as a method for night time illumination
+- Is able to attach an IR strobe and a chemlight
 
-Basic Infantry Training
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### OBUA Training
+- Is able to clear a room
+- Is able to move through a hallway using a rolling T formation
+- Understands the verbal commands used to conduct different types of breaches including with fragmentation grenades, flash grenades and explosives.
+- Understands the OBUA stack formation
+- Understands how to handle a short room
+- Understands how to handle a corner
+- Understands how to label an OBUA environment
+- Understands the use of spray paint for day time marking
+- Understands the use of IR strobes for night marking
 
-* Has been informed about the ROE and Laws of War
-* Weapon Safety
-* Has a standard compliant loadout setup in the Arsenal
-* Basic Formations ( Wedge, Line, File, Staggered Column )
-* Able to safely employ Fragmentation Grenades
-* Configuration and employment of a 343 radio
-* Understanding of when to use a radio and when to use voice communication
-* Is able to read a grid coordinate from a standard map
-
-Automatic Rifleman Qualification
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Has a standard compliant loadout setup in the Arsenal
-* Employment of a Light Machine Gun
-* Managing Ammunition
-* Supporting the weapon system with a bipod
-* Managing barrel temperature
-* Changing the barrel
-
-Designated Marksman Qualification
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Has a standard compliant loadout setup in the Arsenal
-* Is able to zero an optic
-* Understands the role of a DMR in the fireteam
-* Is able to measure and adjust for basic windage
-* Ranging targets
-* Able to use mildots to engage targets at variable ranges
-
-Grenadier Qualification
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Has a standard compliant loadout setup in the Arsenal
-* Is able to range a M203 by adjusting the sight distance
-* Understands the role of the grenadier in the fireteam
-* Is able to safely employ a flash grenade
-* Has been exposed to the effects of a flash grenade
-
-Night Warfare Qualification
-~~~~~~~~~~~~~~~
-
-* Can effectively employ of Night Vision Goggles including the adjustment of the Intensity relative to background light levels
-* Understands Night time markings and IFF techniques
-* Is able to maintain good light and noise discipline during night operations
-* Use of the AN/PEQ 15 Laser as an aiming and marking device
-* Use of a flashlight as a method for night time illumination
-* Is able to attach an IR strobe and a chemlight
-
-MOUT Qualification
-~~~~~~~~~~~~~~~~~~~~
-
-* Is able to clear a room
-* Is able to move through a hallway using a rolling T formation
-* Understands the verbal commands used to conduct different types of breaches including with fragmentation grenades, flash grenades and explosives.
-* Understands the MOUT stack formation
-* Understands how to handle a short room
-* Understands how to handle a corner
-* Understands how to label a MOUT environment
-* Understands the use of spray paint for day time marking
-* Understands the use of IR strobes for night marking
-
-Air Assault Qualified
-~~~~~~~~~~~~~~~~~~~~~~
-
-* Understand that aircrafts are loaded in chalks and the meaning of chalk
-* Is able to connect to the Vehicle Intercom for internal communication
-* Understands how to load and unload a CH-47 in a combat area
-* Understands how to load and unload a UH-60 in a combat area
-* Is able to employ fast ropes from both a CH-47 and UH-60
-
-Airborne (Static Line) Qualified
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Understands the equipment requirements for an Airborne Jump
-* Understand the concept of loading in chalks
-* Understands the role of the Jump Master in the Airborne Jump
-* Is able to jump into a designated Drop Zone as part of a static line jump during both the day and the night
-* Is able to cut the primary parachute and deploy a reserve parachute in the event of a chute failure.
-* Is able to move to the RP and regroup with the team after landing
-
-Jumpmaster Qualification
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Is able to load an element on a C130 Aircraft for an airborne jump
-* Understands how to coordinate with the crew to open necessary doors
-* Is able to check the drop zone and the door for obstructions
-* Is able to check the equipment of the jumpers prior to the jump
-* Understands the responsibilities of the jump master in the jump
-
-Waterborne Qualification
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Understands how to load zodiac boats as a chalk
-* Is able to conduct a helocast on insertion
-* Is able to conduct an assault on a beach
-
-JTAC Qualification
-~~~~~~~~~~~~~~~~~~~~
-
-* Understands communication between ground and air assets
-* Understands and can effectively use their radios
-* Can conduct a request for close air support request
-* Has successfully aborted a CAS request
-* Understands the different JTAC control types
-
-RTO / Forward Observer Qualification
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+### RTO / Forward Observer Qualification
 * Has a correctly configured Arsenal loadout that complies with standard equipment guidelines
 * Knows how to configure and handle an AN/PRC 177F radio
 * Understands how to overcome terrain interferance and provide actionable feedback to platoon leadership in order to maintain communications in hostile environments
 * Understands the full configuration of all radios used within an infantry platoon and can assist other personnel with issues or interference encountered
-* Knows how to operate in a limited radio environment including how to communicate using radio relays from other callsigns and time spaced checkins
+* Knows how to operate in a limited radio environment including how to communicate using radio relays from other callsigns and time spaced check-ins
 * Is able to provide a configured radio connection on the company net, monitor it for communications relevant to the platoon leader and keep him informed of developments on the Network
 * Knows how to provide the platoon leader with the radio handset from his 177F radio
 * Understands the guidelines for employment of Indirect Fire
@@ -158,7 +89,7 @@ RTO / Forward Observer Qualification
 * Is proficient in all formalized reports and requests used on radio networks with the exception of CAS calls which fall under the JTAC quals
 * Understands how to call for a MEDEVAC, mark a necessary LZ and coordinate with the Platoon Medics to facilitate the transportation of the casualty
 * Knows how to organize a rotary extract by coordinating with Aviation and marking a suitable LZ.
-* Understand how to use the Kestrel to make a landing site assesment for an airframe
+* Understand how to use the Kestrel to make a landing site assessment for an airframe
 
 Infantry Medic Qualification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -173,7 +104,7 @@ Infantry Medic Qualification
 * Understands how to coordinate a MEDEVAC with the Platoon RTO including aircraft signalling and casualty hand off
 * Knows the limitations of the ACE medical system and how these are rectified within the RRF levels of care
 * Is able to render correct aid to casualties based on the injuries sustained and the state of their vital signs
-* Understands how to maintain medical supply levels and knows the procedure to request medical resupply from the platoon sergeant 
+* Understands how to maintain medical supply levels and knows the procedure to request medical resupply from the platoon sergeant
 
 Fire Team Leader Qualification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -181,7 +112,7 @@ Fire Team Leader Qualification
 * Has read the "Leadership in the 1st RRF" and understands how it related to the role of the fireteam leader
 * Understands the concept of developing the skillset of those under him
 * Knows how to work as a fireteam leader in the standard infantry battle drills
-* Is able to effectively use a AN/PRC 152 radio to tune to platoon net 
+* Is able to effectively use a AN/PRC 152 radio to tune to platoon net
 * Understands how to assume the role of the squad leader in the event of a leadership casualty
 * Knows how to perform the core radio reports ( ACE and SALUTE )
 * Has completed the AR, DMR, Night and MOUT training programs
