@@ -15,3 +15,24 @@ The DLR must thank the [1st Rapid Response Force](https://documentation.1st-rrf.
 
 ## Training Programs:
 - [Welcome to the Duke of Lancaster Regiment](/introduction/welcome.md)
+
+### Unit Policies and structure
+- [Unit Structure](/about_the_unit/structure.md)
+- [Qualification Programs]()
+- [Ranks and Promotions]()
+- [Disciplinary Policy]()
+
+### Infantry Manuals
+- [Laws of War]()
+- [Rules of Engagement]()
+- [Weapons and Marksmanship]()
+- [The Infantry Squad and Fireteam]()
+- [Infantry Formations and Manoeuvres]()
+- [Infantry Battle Drills]()
+- [OBUA - Operations in Built-Up Areas]()
+- [Weapon and Equipment List]()
+- [Basic Infantry Medical Manual]()
+- [Basic Infantry Communication]()
+- [Infantry Medic Manual]()
+- [Advanced Infantry Radio Manual]()
+- [AARBN Manual]()
