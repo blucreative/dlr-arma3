@@ -14,4 +14,4 @@ The DLR must thank the [1st Rapid Response Force](https://documentation.1st-rrf.
 
 
 ## Training Programs:
-- [Welcome to the Duke of Lancaster Regiment](/introduction/welcome.md)
+- [Welcome to the Duke of Lancaster Regiment](introduction/welcome.md)
