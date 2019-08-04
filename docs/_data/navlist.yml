@@ -1,0 +1,11 @@
+toc:
+  - title: LANCS documentation
+    url: /
+
+  - title: Introduction to LANCS
+    url: /introduction/welcome.md
+
+  - title: About the Unit
+    subfolderitems:
+      - page: Unit structure
+        url: /about_the_unit/structure.md
