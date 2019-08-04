@@ -32,3 +32,10 @@ a {
 }
 
 a:hover {color: $color-red;}
+
+ul {
+  list-style: none;
+  background: none;;
+  border: none;;
+  width: auto;
+}
