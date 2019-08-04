@@ -32,34 +32,3 @@ a {
 }
 
 a:hover {color: $color-red;}
-
-header ul {
-  list-style: disc;
-  background: none;;
-  border: none;;
-  width: auto;
-  margin: none;
-  padding: none;
-
-  a {
-    line-height: 1;
-    font-size: 14px;
-    color: $color-grey;
-    display: initial;
-    text-align: left;
-    margin: 0;
-    padding: 0;
-    height: 14px;
-  }
-}
-
-header li {
-  width: auto;
-  float: left;
-  border: none;
-  height: auto;
-  text-align: -webkit-match-parent;
-  margin: 0 0 0 40px;
-  padding: 0;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
