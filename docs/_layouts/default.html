@@ -23,6 +23,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <nav>
+          <h2>{{ site.data.navlist.toc_list_title }}</h2>
           {% for item in site.data.navlist.toc %}
             <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
               <ul>

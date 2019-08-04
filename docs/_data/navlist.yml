@@ -4,9 +4,9 @@ toc:
     url: /
 
   - title: Introduction to LANCS
-    url: /introduction/welcome.md
+    url: /introduction/welcome.html
 
   - title: About the Unit
     subfolderitems:
       - page: Unit structure
-        url: /about_the_unit/structure.md
+        url: /about_the_unit/structure.html
