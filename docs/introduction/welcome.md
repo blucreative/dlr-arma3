@@ -1,7 +1,7 @@
 # An Introduction to the Duke of Lancaster Regiment
 
 ## Foreword by the Unit Commander
-The Duke of Lancaster Regiment formed as a result of a recognition that there was a need for some sort of British military simulation unit, providing a fun, safe space for all. After many a hour spent on 'Public Zeus' within Arma 3, a group of like-minded individuals came together with an idea to form a respectful, committed community of players.
+The Duke of Lancaster Regiment (LANCS) formed as a result of a recognition that there was a need for some sort of British military simulation unit, providing a fun, safe space for all. After many a hour spent on 'Public Zeus' within Arma 3, a group of like-minded individuals came together with an idea to form a respectful, committed community of players.
 
 Many seem to argue that true MILSIM can take the fun out of Arma, but we strongly disagree. We believe that properly executed MILSIM can provide a deep sense of pride and satisfaction that far outweighs that of the simple 'run and gun' methodology employed by many. Observing the multiple strands of activity being performed to achieve a common objective is what I see as an ultimate achievement for any online game. Regardless of this, the staff at LANCS strive to find the perfect balance between the necessary levels of training and discipline to successfully execute a mission, whilst avoiding the feeling of being too strict or overbearing.
 
@@ -13,10 +13,10 @@ MILSIM, or Military Simulation, forms the backbone of the Duke of Lancaster Regi
 Below are several key facets of our definition for MILSIM, that will help you to evaluate our playstyle.
 
 ### Third and First Person camera - For all players.
-We do this for a number of reasons. Primarily because research from over thousands of hours in game has found that 1st person mode consistently causes eye strain, motion sickness and fatigue in players over long periods of time. It is unfortunate that as a result of this we lose some tactical relationships however we encourage players to maintain self moderating in their use of third person and we generally discourage the use of tactics that cheapen the overal simulation by abusing third person mechanics ( i.e "wall peeking" ).
+We do this for a number of reasons. Primarily because research from over thousands of hours in game has found that 1st person mode consistently causes eye strain, motion sickness and fatigue in players over long periods of time. It is unfortunate that as a result of this we lose some tactical relationships however we encourage players to maintain self moderating in their use of third person and we generally discourage the use of tactics that cheapen the overall simulation by abusing third person mechanics ( i.e. "wall peeking" ).
 
 ### Advanced ACE Medical Simulation
-A corner stone of our gameplay is the use of an extermely comprehensive medical simulation. We appreciate the depth of simulation that this adds to the game and the way it allows us to establish multiple levels of casualty care in game. We also believe that any specialist role such as medics should be comprehensively trained in their area and this allows us to give our medics a complex and detailed challenge in game.
+A corner stone of our gameplay is the use of an extremely comprehensive medical simulation. We appreciate the depth of simulation that this adds to the game and the way it allows us to establish multiple levels of casualty care in game. We also believe that any specialist role such as medics should be comprehensively trained in their area and this allows us to give our medics a complex and detailed challenge in game.
 
 ### Realistic Logistics and Equipment
 We believe in using standardized and realistic equipment that simulates the load a conventional British soldier would carry into combat. We believe in simulation over gameplay and will sacrifice gameplay advantages such as a stronger helmet or larger backpack for the realistic equivalent that would be afforded in combat. One good example of this is thermal sights which we heavily restrict to only the roles that would posses such optics on the real battle field.
