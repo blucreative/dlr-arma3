@@ -1,6 +1,41 @@
 toc_list_title: LANCS Documentation
 toc:
-  - title: About the Unit
+  - title: Unit Policies and Structure
     subfolderitems:
       - page: Unit structure
         url: /about_the_unit/structure.html
+      - page: Qualification Programs
+        url:
+      - page: Ranks and Promotions
+        url:
+      - page: Disciplinary Policy
+        url:
+
+  - title: Infantry Manuals
+    subfolderitems:
+      - page: Laws of War
+        url:
+      - page: Rules of Engagement
+        url:
+      - page: Weapons and Marksmanship
+        url:
+      - page: The Infantry Squad and Fireteam
+        url:
+      - page: Infantry Formations and Manoeuvres
+        url:
+      - page: Infantry Battle Drills
+        url:
+      - page: OBUA
+        url:
+      - page: Weapon and Equipment list
+        url:
+      - page: Basic Infantry Medical Manual
+        url:
+      - page: Basic Infantry Communication
+        url:
+      - page: Infantry Medical Manual
+        url:
+      - page: Advanced Infantry Radio Manuals
+        url:
+      - page: AARBN Manual
+        url
