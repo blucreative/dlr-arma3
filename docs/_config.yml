@@ -4,4 +4,4 @@ description: Field Training Manual for the Duke of Lancaster Regiment Arma 3 Uni
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-site.baseurl: docs.dlr-arma3.co.uk
+baseurl: docs.dlr-arma3.co.uk
