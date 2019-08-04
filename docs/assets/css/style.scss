@@ -34,7 +34,7 @@ a {
 a:hover {color: $color-red;}
 
 header ul {
-  list-style: initial;
+  list-style: disc;
   background: none;;
   border: none;;
   width: auto;
@@ -47,4 +47,6 @@ header li {
   float: left;
   border: none;
   height: auto;
+  text-align: -webkit-match-parent;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
