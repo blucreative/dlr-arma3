@@ -20,7 +20,7 @@ LANCS must thank the [1st Rapid Response Force](https://documentation.1st-rrf.co
 - [Unit Structure](/about_the_unit/structure.md)
 - [Qualification Programs](/about_the_unit/qualifications.md)
 - [Ranks and Promotions](/about_the_unit/rank.md)
-- [Disciplinary Policy]()
+- [Disciplinary Policy](/about_the_unit/disciplinary_policy.md)
 
 ### Infantry Manuals
 - [Laws of War]()
