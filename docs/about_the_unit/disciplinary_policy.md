@@ -17,8 +17,6 @@ The Duke of Lancaster Regiment disciplinary policy was created to provide member
 5. Upon a completed investigation, the member will be notified of the repercussions of his/her actions.
 6. If the violating member wishes to appeal, they may do so and their disciplinary file is escalated to the next level of command.
 
-* * *
-
 ## Member Conduct That Can Result in Disciplinary Action
 The Duke of Lancaster Regiment has established general guidelines to govern the conduct of its members. No list of rules can include all instances of conduct that can result in discipline, and the examples below do not replace sound judgment or common-sense behaviour.
 
