@@ -6,20 +6,20 @@ This runs contrary to some other units courtesies policies that require officers
 ## Rank Structure
 We use the following ranks within LANCS. The promotion policies and guidelines are below - this section is purely to show what ranks we use and how they are configured:
 
-### Kingsman (Kgm.) and Lance Corporal (LCpl.)
+### Kingsman (Kgn.) and Lance Corporal (LCpl.)
 These ranks are available to members of the infantry who are not in leadership positions. Rising through these ranks is mostly a matter of time in grade with a small amount of training. Lance Corporals may be called upon to act as Section 2ICs, should it be decided so by the senior leadership.
 
 ### Corporal (Cpl.) through to Regimental Sergeant Major (WO1 RSM.)**
 These ranks are available to members of the infantry who are in leadership positions ( fireteam leaders through to platoon sergeants ). Rising through these ranks requires a not insignificant time commitment as well as training requirements. Members who progress beyond these ranks join the Officer Corps.
 
-### 2nd Lieutenant (2Lt.) through to Major (Maj.)
+### Second Lieutenant (2Lt.) through to Major (Maj.)
 These ranks are available to officers in the unit. These require a significant period of time spent in the NCO or WO ranks as well as additional leadership and tactical training programs. The number of officers in the unit is limited so these ranks are also subject to competitive application.
 
 
 ## Promotion Policy
-Promotions are issued after the Unit Training Excercises and/ore Unit Operations.
+Promotions are issued after the Unit Training Exercises and/or Unit Operations.
 
-Promotions should be handed out in abstentia in the event that a member is not in attendance of a given event.
+Promotions should be handed out in absentia in the event that a member is not in attendance of a given event.
 
 Each week senior NCOs and Junior officers will prepare for the Unit Commander a summary of all eligible promotions within the unit and will provide notification to the direct chain of command that the member is promotable. Objections to promotion should be raised back through the relevant chain of command within 48 hours of original notification at which time the Unit Commander has the final say on whether the member will promote.
 
@@ -36,107 +36,71 @@ For example a fire team leader may organise an medical training for his team as 
 ### Interview when moving corps
 When moving from one set of ranks to another - such as Kingsman to Lance Corporal or Sergeant Major to 2nd Lieutenant - the member will be subject to an interview by members of the outbound rank structure. For example an NCO promoting to officer will be subject to an interview by at least two members of the officer corps. Both members of the interview panel have a veto on the final decision of the candidate. The two officers should be selected by the Unit Commander in order to provide a fair and unbiased consideration of the candidate.
 
-### Rank Requirements
+### Rank Description and Requirements
 Each rank requires all of the eligibility requirements of the rank before it. For example if Lance Corporal requires the basic introductory program all subsequent ranks in the unit also require the completion of this program.
 
 #### Recruit (Rct.)
+Initial rank given to those who are new to the unit and have not undertaken any training yet.
+
 No requirements
 
-#### Kingsman (Kgm.)
-Training Completed: Basic Introductory Program
+#### Kingsman (Kgn.)
+On completion of the Basic Introductory Program, Recruits are promoted to the rank of Kingsman. The Duke of Lancaster's Regiment uses the rank Kingsman instead of Private, a tradition inherited from the King's Regiment; itself having inherited the tradition from the King's Regiment (Liverpool). Its use has been officially sanctioned since 1951, but it was informally used before this for over one hundred years.
+
+Training Completed: Universal Introductory Program, Basic Infantry Training  
 
 #### Lance Corporal (LCpl.)
-Time in Service: 7 days
+Promotion to Lance Corporal may follow after a fixed period of time in service, and a demonstration of leadership capabilities on Operations. Lance Corporals are required to supervise a small team of up to four soldiers (Fireteam). They also have opportunities to specialise and undertake specialist military training, such as medical training or radio operation training.
+
+Minimum time in Service: 7 days
 
 #### Corporal (Cpl.)
+After an extended period of service, depending on ability to lead, promotion to Corporal typically follows. In this rank additional trade and instructor qualifications can be gained. Corporals are given command of more soldiers such as tanks and guns.
+
+Minimum time in Service: 28 days
+Training Completed: Junior Leadership Module, One other qualification.
 
 #### Sergeant (Sgt.)
+Sergeant is a senior role of responsibility and promotion will take place depending on ability. Sergeants are typically second in command of a platoon of up to 35 soldiers, with the important responsibility for advising and assisting junior officers.
 
-#### Staff Sergeant (SSgt.)
+Minimum time in Service: 35 days
+Training Completed: Section Leadership Module
 
-#### WO2 Compant Sergeant Major (WO2 CSM.)
+#### Colour Sergeant (CSgt.)
+Colour Sergeant is a senior role combining man and resource management of up to 120 soldiers, or even command of a platoon.
 
-#### WO1 Regimental Sergeant Major (W01 RSM)
+Minimum time in Service: 50 days
+Training Completed: Platoon Sergeant Module
 
+#### WO2 Company Sergeant Major (WO2 CSM.)
+This is a senior management role focussing on the training, welfare and discipline of a company. WO2s act as senior advisor to the Major in command of the sub-unit and may also be selected for commission as an Officer. As WO2's have a heavy responsibility on training, they are required to hold all specialised training qualifications.
 
-**SPC**
+Minimum time in Service: 70 days
+Training Completed: Automatic Rifleman Training, Designated Marksman Training, Grenadier Training, Night Warfare Training, OBUA Training, RadOps / Forward Observer Module, Infantry Medic Module
 
-Time in Service: 20 days
-Training Completed: At least one additional qualification
+#### WO1 Regimental Sergeant Major (W01 RSM.)
+The most senior soldier rank in the British Army, achieved after a period of outstanding service. WO1s are the senior advisors of their unit's Commanding Officer, with leadership discipline and welfare responsibilities for all officers, soldiers and equipment within the unit.
 
-**CPL**
+Minimum time in Service: 90 days
 
-Time in Service: 28 days
-Training Completed: FTL Qualification
+#### Second Lieutenant (2Lt.)
+The first rank held on commissioning. It is held for a brief period of time during which, the 2Lt completes special to arms training relevant to their Corps. Afterwards, they are responsible for leading up to 30 soldiers in a platoon or troop, both in training and on operations.
 
-**SGT**
+Minimum time in Service: 80 days
+Training completed: Platoon Leader Module
 
-Time in Service: 35 days
+#### Lieutenant (Lt.)
+Lieutenants normally command a platoon, and also have additional responsibilities to do with management of the Unit.
 
-**SSG**
+Minimum time in Service: 100 days
 
-Time in Service: 56 days
-Training Completed: SL Qualification
+#### Captain (Cpt.)
+Captains are normally made second-in-command of a sub-unit of up to 120 soldiers. They are key players in the planning and decision making process, with tactical responsibility for operations on the ground, as well as equipment maintenance, logistics support and manpower.
 
-**SFC**
+Minimum time in Service: 130 days
+Training Completed: Regimental Commander Module
 
-Time in Service: 70 days
-Training Completed: PSG Qualification
+#### Major (Maj.)
+Typically, a Major will be given command of a sub-unit of up to 120 officers and soldiers with responsibility for their training, welface and administration both in camp and on operations, as well as management of their equipment. Major is currently the highest rank employed by LANCS and denotes the Unit Commander.
 
-**MSG**
-
-Time in Service: 150 days
-Training Completed:
-	* ODA Selection Pipeline
-
-**SGM**
-
-Time in Service: 360 days
-Training Completed:
-	* ODA Selection Pipeline
-
-**WOC**
-
-No Requirements
-
-**WO1**
-
-Training Completed: Aviation Introductory Qualification
-
-**CW2**
-
-Time in Service: 20 days
-Training Completed: Any one additional aviation training qualification
-
-**CW3**
-
-Time in Service: 40 days
-Training Completed: Aircraft Commander Qualification
-
-**CW4**
-
-Time in Service: 56 days
-
-**CW5**
-
-Time in Service: 70 days
-
-**2LT**
-
-Time in Service: 90 days
-Training Completed:
-	* Advanced Leadership Qualification
-	* Either Platoon Leader Qualification or Squadron Commander Qualification
-
-**1LT**
-
-Time in Service: 115 days
-
-**CPT**
-
-Time in Service: 200 days
-
-**MAJ**
-
-Time in Service: 360 days
-Special Nomination - Requires a unaninmous board approval of the promotion
+Minimum time in Service: 180 days
