@@ -2,7 +2,7 @@
 The Duke of Lancaster Regiment operates on a system of ranks which are directly tied to the position that the member holds and their seniority within the group. They can be broadly viewed as a representation of time spent in the group and whilst we expect these ranks to be recognised with respect to decisions in the unit both in and out of combat, they do not confer any form of direct seniority in other contexts such as other games or in general conversation.
 
 This runs contrary to some other units courtesies policies that require officers be addressed accordingly at all times which is **NOT** the case in LANCS. Rank should be a measure of time spent in the unit, contribution to the unit, and the level in the chain of command in reference to the formal activities of the unit.
-***
+* * *
 
 ## Rank Structure
 We use the following ranks within LANCS. The promotion policies and guidelines are below - this section is purely to show what ranks we use and how they are configured:
@@ -15,7 +15,7 @@ These ranks are available to members of the infantry who are in leadership posit
 
 ### Second Lieutenant (2Lt.) through to Major (Maj.)
 These ranks are available to officers in the unit. These require a significant period of time spent in the NCO or WO ranks as well as additional leadership and tactical training programs. The number of officers in the unit is limited so these ranks are also subject to competitive application.
-***
+* * *
 
 ## Promotion Policy
 Promotions are issued after the Unit Training Exercises and/or Unit Operations.
@@ -36,7 +36,7 @@ For example a fire team leader may organise an medical training for his team as 
 
 ### Interview when moving corps
 When moving from one set of ranks to another - such as Kingsman to Lance Corporal or Sergeant Major to 2nd Lieutenant - the member will be subject to an interview by members of the outbound rank structure. For example an NCO promoting to officer will be subject to an interview by at least two members of the officer corps. Both members of the interview panel have a veto on the final decision of the candidate. The two officers should be selected by the Unit Commander in order to provide a fair and unbiased consideration of the candidate.
-***
+* * *
 
 ## Rank Description and Requirements
 Each rank requires all of the eligibility requirements of the rank before it. For example if Lance Corporal requires the basic introductory program all subsequent ranks in the unit also require the completion of this program.
