@@ -23,6 +23,11 @@ h2 {
 
 h3 {color: $color-grey;}
 
+h4 {
+  color: $color-grey;
+  margin: 0px;
+}
+
 p {
   color: $color-grey;
 }
@@ -32,3 +37,7 @@ a {
 }
 
 a:hover {color: $color-red;}
+
+strong {
+  color: $color-red;
+}

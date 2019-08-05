@@ -9,7 +9,7 @@ We use the following ranks within LANCS. The promotion policies and guidelines a
 ### Kingsman (Kgn.) and Lance Corporal (LCpl.)
 These ranks are available to members of the infantry who are not in leadership positions. Rising through these ranks is mostly a matter of time in grade with a small amount of training. Lance Corporals may be called upon to act as Section 2ICs, should it be decided so by the senior leadership.
 
-### Corporal (Cpl.) through to Regimental Sergeant Major (WO1 RSM.)**
+### Corporal (Cpl.) through to Regimental Sergeant Major (WO1 RSM.)
 These ranks are available to members of the infantry who are in leadership positions ( fireteam leaders through to platoon sergeants ). Rising through these ranks requires a not insignificant time commitment as well as training requirements. Members who progress beyond these ranks join the Officer Corps.
 
 ### Second Lieutenant (2Lt.) through to Major (Maj.)
