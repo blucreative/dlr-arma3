@@ -78,7 +78,14 @@ Colour Sergeant is a senior role combining man and resource management of up to 
 This is a senior management role focussing on the training, welfare and discipline of a company. WO2s act as senior advisor to the Major in command of the sub-unit and may also be selected for commission as an Officer. As WO2's have a heavy responsibility on training, they are required to hold all specialised training qualifications.
 
 - Minimum time in Service: 70 days
-- Training Completed: Automatic Rifleman Training, Designated Marksman Training, Grenadier Training, Night Warfare Training, OBUA Training, RadOps / Forward Observer Module, Infantry Medic Module
+- Training Completed:
+	- Automatic Rifleman Training
+	- Designated Marksman Training
+	- Grenadier Training
+	- Night Warfare Training
+	- OBUA Training
+	- RadOps / Forward Observer Module
+	- Infantry Medic Module
 
 ### WO1 Regimental Sergeant Major (W01 RSM.)
 The most senior soldier rank in the British Army, achieved after a period of outstanding service. WO1s are the senior advisors of their unit's Commanding Officer, with leadership discipline and welfare responsibilities for all officers, soldiers and equipment within the unit.
