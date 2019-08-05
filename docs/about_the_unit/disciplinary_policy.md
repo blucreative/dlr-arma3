@@ -16,6 +16,7 @@ The Duke of Lancaster Regiment disciplinary policy was created to provide member
 4. The reporting party will remain anonymous throughout the disciplinary policy.
 5. Upon a completed investigation, the member will be notified of the repercussions of his/her actions.
 6. If the violating member wishes to appeal, they may do so and their disciplinary file is escalated to the next level of command.
+
 * * *
 
 ## Member Conduct That Can Result in Disciplinary Action
@@ -30,39 +31,39 @@ Different violations may be handled differently depending on the category they a
 ### Category 1
 A category 1 offense typically relate to actions or behaviours that are considered disruptive, unprofessional, but are not serious enough to cause unit wide interference.
 
-* Insubordination (non-combat)
+- Insubordination (non-combat)
     - 1st Offense: Verbal Counselling Statement
     - 2nd Offense: Negative Counselling Statement will be added to member record, demotion of rank
     - 3rd Offense: Bad Conduct Discharge
-* Unprofessional conduct in front of a prospective member
+- Unprofessional conduct in front of a prospective member
     - 1st Offense: Verbal Counselling Statement
     - 2nd Offense: Negative Counselling Statement will be added to member record, demotion of rank
     - 3rd Offense: Unit Commander discretion.
-* Unprofessional conduct in an official training course
+- Unprofessional conduct in an official training course
     - 1st Offense: Verbal Counselling Statement
     - 2nd Offense: Negative Counselling Statement will be added to member record, demotion of rank
     - 3rd Offense: Unit Commander discretion.
-* Unprofessional conduct in administrative office
+- Unprofessional conduct in administrative office
     - 1st Offense: Verbal Counselling Statement
     - 2nd Offense: Negative Counselling Statement will be added to member record, demotion of rank
     - 3rd Offense: Unit Commander discretion.
-* TeamSpeak Hot-mic, Communication Spamming
+- TeamSpeak Hot-mic, Communication Spamming
     - 1st Offense: Verbal Counselling Statement
     - 2nd Offense: Restriction of TeamSpeak permissions
     - 3rd Offense: Administrative Discharge (Failure to Adapt)
-* Uniform/Equipment Violation on Garrison
+- Uniform/Equipment Violation on Garrison
     - 1st Offense: Verbal Counselling Statement
     - 2nd Offense: Negative Counselling Statement will be added to member record
     - 3rd Offense: NCS, Demotion of Rank, Unit Commander discretion
-* Uniform/Equipment Violation on Deployment
+- Uniform/Equipment Violation on Deployment
     - 1st Offense: Verbal Counselling Statement
     - 2nd Offense: Negative Counselling Statement will be added to member record
     - 3rd Offense: NCS, Demotion of Rank, Unit Commander discretion
-* Failure to report in
+- Failure to report in
     - 1st Offense: Verbal Counselling Statement
     - 2nd Offense: Negative Counselling Statement will be added to member record
     - 3rd Offense: NCS, Demotion of Rank, Unit Commander discretion
-* Failure to adhere to Customs and Courtesies
+- Failure to adhere to Customs and Courtesies
     - 1st Offense: Verbal Counselling Statement
     - 2nd Offense: Negative Counselling Statement will be added to member record
     - 3rd Offense: All subsequent actions will be NCSs
@@ -70,48 +71,49 @@ A category 1 offense typically relate to actions or behaviours that are consider
 ### Category 2
 A category 2 offense typically relate to actions or behaviours that are considered very disruptive, immersion breaking, and cause small amounts of unit wide interference.
 
-* Insubordination (combat)
+- Insubordination (combat)
     - 1st Offense: Negative Counselling Statement will be added to member record
     - 2nd Offense: Demotion of Rank, Reassignment (if available)
     - 3rd Offense: Bad Conduct Discharge
-* Destruction of LANCS assets without Command Authorization
+- Destruction of LANCS assets without Command Authorization
     - 1st Offense: Negative Counselling Statement will be added to member record
     - 2nd Offense: Demotion of Rank, Reassignment (if available)
     - 3rd Offense: Bad Conduct Discharge
-* Abandonment of LANCS property without Command Authorization
+- Abandonment of LANCS property without Command Authorization
     - 1st Offense: Negative Counselling Statement will be added to member record
     - 2nd Offense: Demotion of Rank, Reassignment (if available)
     - 3rd Offense: Bad Conduct Discharge
-* Misuse of the On-Call System
+- Misuse of the On-Call System
     - 1st Offense: Negative Counselling Statement will be added to member record
     - 2nd Offense: Bad Conduct Discharge
 
 ### Category 3
 A category 3 offense typically relate to actions or behaviours that are considered extremely disruptive, disrespectful conduct towards members, and cause large amounts of unit wide interference.
 
-* Malicious Directed Verbal Threat towards a member or guest
+- Malicious Directed Verbal Threat towards a member or guest
     - 1st Offense: Negative Counselling Statement will be added to member record
     - 2nd Offense: Suspension of Unit Activities until Command Hearing regarding the charge
-* Malicious Directed Racism towards a member or guest
+- Malicious Directed Racism towards a member or guest
     - 1st Offense: Negative Counselling Statement will be added to member record
     - 2nd Offense: Suspension of Unit Activities until Command Hearing regarding the charge
-* Fratricide/Teamkilling (without intent)
+- Fratricide/Teamkilling (without intent)
     - 1st Offense: Suspension of Unit Activities until Command Hearing regarding the charge
-* Enlistment Fraud
+- Enlistment Fraud
     - 1st Offense: Bad Conduct Discharge
 
 ### Category 4
 A category 4 offense typically relate to actions or behaviours that the unit has determined to be dishonourable actions and which result in the most serious repercussion,  Dismissal with Disgrace (complete and total ban from LANCS assets). All reported offenses require an emergency Command Hearing to be convened.
 
-* Fratricide (with intent)
+- Fratricide (with intent)
     - Suspension of Unit Activities until Command Hearing regarding the charge
-* Conspiracy
+- Conspiracy
     - Suspension of Unit Activities until Command Hearing regarding the charge
-* Sabotage of 1st RRF Server Infrastructure
+- Sabotage of LANCS Infrastructure
     - Suspension of Unit Activities until Command Hearing regarding the charge
     - We will pursue charges and contact local law enforcement authorities in member’s local municipality
-* Recruitment of LANCS members for another MILSIM organization.
+- Recruitment of LANCS members for another MILSIM organization.
     - Suspension of Unit Activities until Command Hearing regarding the charge
+
 * * *
 
 ## Command Hearing
