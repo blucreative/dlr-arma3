@@ -18,7 +18,7 @@ LANCS must thank the [1st Rapid Response Force](https://documentation.1st-rrf.co
 
 ### Unit Policies and structure
 - [Unit Structure](/about_the_unit/structure.md)
-- [Qualification Programs]()
+- [Qualification Programs](/about_the_unit/qualifications.md)
 - [Ranks and Promotions]()
 - [Disciplinary Policy]()
 

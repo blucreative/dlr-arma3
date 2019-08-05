@@ -31,6 +31,6 @@ We limit the number of vehicular assets - in particular heavy ground armour - so
 We focus on recruiting great people to fight with us and training them to the highest level. Many Arma units focus on getting people in the door regardless of their attitude or alignment with the group. We are interested in people who are going to stick around and learn the tactics and techniques that we use.
 
 ### Real Life Comes First
-We understand that Arma is just a game and as such you might not always be able to attend. We never want you to be in a position where you are sacrifing your real life activities to meet our requirements and we implement strong redundancy plans at every level of the chain of command so that absence does not affect the wider group.
+We understand that Arma is just a game and as such you might not always be able to attend. We never want you to be in a position where you are sacrificing your real life activities to meet our requirements and we implement strong redundancy plans at every level of the chain of command so that absence does not affect the wider group.
 
-However we also encourage you to think about the good of the unit when you need to be absent and consider stepping down from your position to take a Leave of Absence in the event that life takes an unforseen turn.
+However we also encourage you to think about the good of the unit when you need to be absent and consider stepping down from your position to take a Leave of Absence in the event that life takes an unforeseen turn.

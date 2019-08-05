@@ -76,91 +76,79 @@ Senior Leadership members will process the training module goals and, upon modul
 - Understands the use of spray paint for day time marking
 - Understands the use of IR strobes for night marking
 
-### RTO / Forward Observer Qualification
-* Has a correctly configured Arsenal loadout that complies with standard equipment guidelines
-* Knows how to configure and handle an AN/PRC 177F radio
-* Understands how to overcome terrain interferance and provide actionable feedback to platoon leadership in order to maintain communications in hostile environments
-* Understands the full configuration of all radios used within an infantry platoon and can assist other personnel with issues or interference encountered
-* Knows how to operate in a limited radio environment including how to communicate using radio relays from other callsigns and time spaced check-ins
-* Is able to provide a configured radio connection on the company net, monitor it for communications relevant to the platoon leader and keep him informed of developments on the Network
-* Knows how to provide the platoon leader with the radio handset from his 177F radio
-* Understands the guidelines for employment of Indirect Fire
-* Is able to correctly call for artillery fire and provide adjustments as a forward observer
-* Is proficient in all formalized reports and requests used on radio networks with the exception of CAS calls which fall under the JTAC quals
-* Understands how to call for a MEDEVAC, mark a necessary LZ and coordinate with the Platoon Medics to facilitate the transportation of the casualty
-* Knows how to organize a rotary extract by coordinating with Aviation and marking a suitable LZ.
-* Understand how to use the Kestrel to make a landing site assessment for an airframe
+### RadOps / Forward Observer Module
+- Has a correctly configured Arsenal loadout that complies with standard equipment guidelines
+- Knows how to configure and handle an AN/PRC 177F radio
+- Understands how to overcome terrain interference and provide actionable feedback to platoon leadership in order to maintain communications in hostile environments
+- Understands the full configuration of all radios used within an infantry platoon and can assist other personnel with issues or interference encountered
+- Knows how to operate in a limited radio environment including how to communicate using radio relays from other callsigns and time spaced check-ins
+- Is able to provide a configured radio connection on the company net, monitor it for communications relevant to the platoon leader and keep him informed of developments on the Network
+- Knows how to provide the platoon leader with the radio handset from his 177F radio
+- Understands the guidelines for employment of Indirect Fire
+- Is able to correctly call for artillery fire and provide adjustments as a forward observer
+- Is proficient in all formalized reports and requests used on radio networks.
+- Understands how to call for a MEDEVAC, mark a necessary LZ and coordinate with the Platoon Medics to facilitate the transportation of the casualty
+- Knows how to organize a rotary extract by coordinating with Aviation and marking a suitable LZ.
+- Understand how to use the Kestrel to make a landing site assessment for an airframe
 
-Infantry Medic Qualification
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Infantry Medic Module
+- Has a correctly configured Arsenal loadout that complies with standard equipment guidelines
+- Is able to read blood pressures and can recall the safe and unsafe ranges
+- Is able to read pulses and can recall the safe and unsafe ranges
+- Is able to triage multiple casualties by wound severity
+- Knows how to make use of nearby infantry personnel to perform non trained roles such as CPR in support of ongoing treatment
+- Has fully read the LANCS "TC3 pipeline manual"
+- Understands how to establish a CCP in cooperation with the platoon sergeant to provide centralized medical care to infantry teams
+- Understands how to coordinate a MEDEVAC with the Platoon RTO including aircraft signalling and casualty hand off
+- Knows the limitations of the ACE medical system and how these are rectified within the RRF levels of care
+- Is able to render correct aid to casualties based on the injuries sustained and the state of their vital signs
+- Understands how to maintain medical supply levels and knows the procedure to request medical resupply from the platoon sergeant
 
-* Has a correctly configured Arsenal loadout that complies with standard equipment guidelines
-* Is able to read blood pressures and can recall the safe and unsafe ranges
-* Is able to read pulses and can recall the safe and unsafe ranges
-* Is able to triage multiple casualties by wound severity
-* Knows how to make use of nearby infantry personnel to perform non trained roles such as CPR in support of ongoing treatment
-* Has fully read the RRF "TC3 pipeline manual"
-* Understands how to establish a CCP in cooperation with the platoon sergeant to provide centralized medical care to infantry teams
-* Understands how to coordinate a MEDEVAC with the Platoon RTO including aircraft signalling and casualty hand off
-* Knows the limitations of the ACE medical system and how these are rectified within the RRF levels of care
-* Is able to render correct aid to casualties based on the injuries sustained and the state of their vital signs
-* Understands how to maintain medical supply levels and knows the procedure to request medical resupply from the platoon sergeant
+### Junior Leadership Module
+- Has read the "Leadership in LANCS" and understands how it relates to the role of the Section Commander and Section 2IC
+- Understands the concept of developing the skillset of those under him/her
+- Knows how to work as a fireteam leader in the standard section battle drills
+- Is able to effectively use a AN/PRC 152 radio to tune to platoon network
+- Understands how to assume the role of the squad leader in the event of a leadership casualty
+- Knows how to perform the core radio reports ( ACE and SALUTE )
+- Has completed the AR, DMR, Night and OBUA training modules
+- Knows how to submit an After Action Report
 
-Fire Team Leader Qualification
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Section Leadership Module
+- Understands how to lead Squad Battle drills
+- Knows how to operate on a Platoon Radio Network including all the standard reports
+- Understands how to use the cTab to monitor squad and platoon activity
+- Understands the role of the Section/Platoon commander in developing the subordinate members of the squad
+- Understands the role of the Section/Platoon commander in coordinating and planning training excercises
+- Understands how to use the website/forum to manage their squad timeline
+- Understands how to use the website/forum to assign and manage positions of their squad
+- Knows the SOP equipment guidelines and the strategies for their employment
+- Can receive and process platoon level TLPs and successfully brief their squad
+- Understands how to communicate requests for fire support and resupply to the platoon level
+- Has completed the Junior Leadership Qualification
 
-* Has read the "Leadership in the 1st RRF" and understands how it related to the role of the fireteam leader
-* Understands the concept of developing the skillset of those under him
-* Knows how to work as a fireteam leader in the standard infantry battle drills
-* Is able to effectively use a AN/PRC 152 radio to tune to platoon net
-* Understands how to assume the role of the squad leader in the event of a leadership casualty
-* Knows how to perform the core radio reports ( ACE and SALUTE )
-* Has completed the AR, DMR, Night and MOUT training programs
-* Knows how to use the website to record an After Action Report
+### Platoon Sergeant Module
+- Knows the platoon level parade formations and how to organize squads to accomplish a parade rest
+- Understands the role of the platoon sergeant as directly supporting the platoon leader
+- Understands how LANCS handles logistics and how to provision adequate resupply for the Sections
+- Understands platoon combat formations and battle drills and understands how to lead squads to accomplish them
+- Knows how to establish a CCP and resupply point
+- Knows how to work with medics to provision TC3 facilities in the combat environment
+- Understands how to handle POWs in line with the ROE and Laws of War
 
-Squad Leader Qualification
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Platoon Leader Module
+- Understands how to operate on a company level radio Network
+- Understands how to use a RadOps radio to accomplish long range communication
+- Is able to implement platoon level formations and battle drills by commanding the positioning of Sections
+- Understands how to work with the Platoon Sergeant to delegate logistics and leadership tasks within the platoon
+- Knows how to interact with the Platoon RadOp to call in appropriate IDF and CAS to accomplish the mission objective
+- Knows the role of the officer corps in the administration of the unit ( Website/Discord admin tasks and Server maintenance )
+- Has read the "Officers in LANCS" manual detailing the restrictions and guidelines for officers in LANCS
+- Is able to correctly execute platoon troop leading procedures to produce a battle plan and roster for official operations and trainings
+- Is able to liase with friendly air and ground assets to achieve a cohesive plan of action
+- Understands the process to handle disciplinary action within the platoon.
 
-* Understands how to lead Squad Battle drills
-* Knows how to operate on a Platoon Radio Network including all the standard reports
-* Understands how to use the cTab to monitor squad and platoon activity
-* Understands the role of the squad leader in developing the subordinate members of the squad
-* Understands the role of the squad leader in coordinating and planning training excercises
-* Understands how to use the website to manage their squad timeline
-* Understands how to use the website to assign and manage positions of their squad
-* Knows the SOP equipment guidelines and the strategies for their employment
-* Can receive and process platoon level TLPs and succesfully brief their squad
-* Understands how to communicate requests for fire support and resupply to the platoon level
-* Has completed the FTL Qualification
-
-Platoon Sergeant Qualification
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Knows the platoon level parade formations and how to organize squads to accomplish a parade rest
-* Understands the role of the platoon sergeant as directly supporting the platoon leader
-* Understands how the 1st RRF handles logistics and how to provision adequate resupply for the squads
-* Understands platoon combat formations and battle drills and understands how to lead squads to accomplish them
-* Knows how to establish a CCP and resupply point
-* Knows how to work with medics to provision TC3 facilities in the combat environment
-* Understands how to handle POWs in line with the ROE and Laws of War
-
-Platoon Leader Qualification
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Understands how to operate on a company level radio Network
-* Understands how to use an RTOs radio to accomplish long range communication
-* Is able to implement platoon level formations and battle drills by commanding the positioning of squads
-* Understands how to work with the Platoon Sergeant to delegate logistics and leadership tasks within the platoon
-* Knows how to interact with the Platoon RTO and the Platoon JTAC to call in appropriate IDF and CAS to accomplish the mission objective
-* Knows the role of the officer corps in the administration of the unit ( Website admin tasks and Server maintenance )
-* Has read the "Officers in the 1st RRF" manual detailing the restrictions and guidelines for officers in the RRF
-* Is able to correctly execute platoon troop leading procedures to produce a battle plan and roster for official operations and trainings
-* Understands how to work with S3 to create OPORDs in support of official deployments
-* Is able to liase with friendly air and ground assets to achieve a cohesive plan of action
-* Understands the process to handle disciplinary action within the platoon including NJPs and Article 15 discharges.
-* Understands the RRF TLP with regards to integrating reserve forces into the infantry platoon to fulfill operation requirements
-
-Basic Pilot Qualification
+<!-- Basic Pilot Qualification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Understands how to use the aviation dashboard
@@ -200,18 +188,13 @@ Fixed-Wing Combat Qualification
 * Can effectively use passive radar homing munitions
 * Can effectively use cluster bomb munitions
 * Can effectively use unguided munitions
-* Can evade missile munitions through evasive maneuvers and countermeasures
+* Can evade missile munitions through evasive maneuvers and countermeasures -->
 
-
-Squadron Commander Qualification
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Understands how to use the website to manage their squad timeline
-* Understands how to use the website to assign and manage positions of their squad
-* Has read the "Officers in the 1st RRF" manual detailing the restrictions and guidelines for officers in the RRF
-* Knows the role of the officer corps in the administration of the unit ( Website admin tasks and Server maintenance )
-* Is able to correctly execute squadron leading procedures to produce a battle plan and roster for official operations and trainings
-* Understands how to work with S3 to create OPORDs in support of official deployments
-* Is able to liase with friendly air and ground assets to achieve a cohesive plan of action
-* Understands the process to handle disciplinary action within the platoon including NJPs and Article 15 discharges.
-* Understands the RRF TLP with regards to integrating reserve forces into the infantry platoon to fulfill operation requirements
+### Regimental Commander Module
+- Understands how to use the website to manage their squad timeline
+- Understands how to use the website to assign and manage positions of their squad
+- Has read the "Officers in LANCS" manual detailing the restrictions and guidelines for officers in LANCS
+- Knows the role of the officer corps in the administration of the unit ( Website/discord admin tasks and Server maintenance )
+- Is able to correctly execute Regimental leading procedures to produce a battle plan and roster for official operations and trainings
+- Is able to liase with friendly air and ground assets to achieve a cohesive plan of action
+- Understands the process to handle disciplinary action within the platoon.
