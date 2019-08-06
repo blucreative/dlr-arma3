@@ -45,3 +45,5 @@ strong {
 hr {
   background-color: $color-red;
 }
+
+ul li::before {color: $color-red;}
