@@ -24,7 +24,7 @@ LANCS must thank the [1st Rapid Response Force](https://documentation.1st-rrf.co
 
 ### Infantry Manuals
 - [Laws of War](/infantry/laws_of_war.md)
-- [Rules of Engagement]()
+- [Rules of Engagement](/infantry/roe.md)
 - [Weapons and Marksmanship]()
 - [The Infantry Squad and Fireteam]()
 - [Infantry Formations and Manoeuvres]()
