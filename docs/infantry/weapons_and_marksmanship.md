@@ -21,8 +21,7 @@ Partial magazines should be retained and can be repacked using the ACE interacti
 
 All issued infantry weapon system are magazine cross compatible with the exception of the 7.62 DMR which uses it's own magazines. As such Section ICs will attempt to balance ammunition between different members of the section to maintain a uniform quantity of ammo within the team.
 
-| :warning: **Warning**: LANCS infantry should not pickup enemy weapons. In the event that an element is rendered entirely black on ammunition command has the option to modify the ROE to allow the use of enemy weapons. |
-| --- |
+> **Warning**: LANCS infantry should not pickup enemy weapons. In the event that an element is rendered entirely black on ammunition command has the option to modify the ROE to allow the use of enemy weapons.
 
 ## Types of Fire
 Type of Fire are the different paces and accuracy of fire that can be employed.
