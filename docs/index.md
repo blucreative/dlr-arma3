@@ -23,7 +23,7 @@ LANCS must thank the [1st Rapid Response Force](https://documentation.1st-rrf.co
 - [Disciplinary Policy](/about_the_unit/disciplinary_policy.md)
 
 ### Infantry Manuals
-- [Laws of War]()
+- [Laws of War](/infantry/laws_of_war.md)
 - [Rules of Engagement]()
 - [Weapons and Marksmanship]()
 - [The Infantry Squad and Fireteam]()
