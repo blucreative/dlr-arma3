@@ -26,7 +26,7 @@ LANCS must thank the [1st Rapid Response Force](https://documentation.1st-rrf.co
 - [Laws of War](/infantry/law_of_war.md)
 - [Rules of Engagement](/infantry/roe.md)
 - [Weapons and Marksmanship](/infantry/weapons_and_marksmanship.md)
-- [The Infantry Squad and Fireteam]()
+- [The Infantry Squad and Fireteam](/infantry/the_squad_and_fireteam.md)
 - [Infantry Formations and Manoeuvres]()
 - [Infantry Battle Drills]()
 - [OBUA - Operations in Built-Up Areas]()
