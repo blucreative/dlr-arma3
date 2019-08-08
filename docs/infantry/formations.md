@@ -32,36 +32,36 @@ Security: The ability that the element has to detect and respond to contact
 
 ### Single File
 
-![Single File](~/img/singlefile.png)
+![Single File](../img/singlefile.png)
 
 Ideal for moving along hedge lines, walls and other linear features. This formation provides the section commander with good control. It is easy to maintain both during the day and at night. Gives good arcs of fire to the flanks, but is vulnerable to attack from the front or rear.
 
 ### Staggered File
 
-![Staggered File](~/img/staggered.png)
+![Staggered File](../img/staggered.png)
 
 Used mainly for moving along road and tracks. Similar characteristics to single file, although while it gives slightly better firepower to the front and rear there is a danger of members of the section being caught in other section members fire during an attack from the flanks. As such, it is commonly recommended that only one half of the formation return fire during contact, depending on the side enemy fire is coming from.
 
 ### Arrowhead
 
-![Arrowhead](~/img/arrowhead.png)
+![Arrowhead](../img/arrowhead.png)
 
 Arrowhead is the most commonly used formation during field manoeuvres. This formation is ideal for crossing large open areas such as fields and desert. It provides excellent firepower to the front and 50% of the sections firepower to either flank. It can, however, be difficult to maintain and control, especially at night.
 
 ### Extended Line
 
-![Extended Line](~/img/extended.png)
+![Extended Line](../img/extended.png)
 
 Extended Line is used mainly when preparing for an assault on an enemy position as it leads itself to easy movement into a bounding assault. It is also useful when searching an area for equipment or injured personnel. It is, however, difficult to maintain, especially when moving at speed.
 
 ### Diamond
 
-![Diamond](~/img/diamond.png)
+![Diamond](../img/diamond.png)
 
 This formation, used on rare occasions, is used in much the same way as arrowhead. It is especially useful in place of arrowhead at night and is much easier to control and maintain. It does, however, provide less firepower to the front than arrowhead.
 
 ### Half Attack
 
-![Half Attack](~/img/halfattack.png)
+![Half Attack](../img/halfattack.png)
 
 Half attack is a formation that is often used in place of Staggered File. It works in much the same way as the former, although it is especially useful when you are expecting contact from either flank. As the two fireteams are in separate bricks rather than simply offset, a bounding attack or withdrawal can begin without first having to organise the section into an extended line, saving valuable time when under fire.
