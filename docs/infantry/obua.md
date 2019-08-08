@@ -29,7 +29,7 @@ If a ballistic, explosive or flashbang breach are required the team leader will 
 ### Ready Check
 The team leader will do a status check in reverse order by calling out "Ready up". Each team member in the stack should respond in descending order:
 
-"4 ready", "3 ready", "2 ready", "1 ready"
+"4 ready", "3 ready", "2 ready", "1 ready."
 
 If any team member fails to call ready or says "hold" then the formation will hold until the issue has been resolved.
 
