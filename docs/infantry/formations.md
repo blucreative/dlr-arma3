@@ -29,7 +29,7 @@ Speed: The speed at which the element is able to cover distance\\
 Security: The ability that the element has to detect and respond to contact
 
 ## Formations for Sections/Fireteams
-For each of the images in the formations, below, the colour coding represents the following:
+For each of the images in the formations, below, the colour coding represents the following, however the positioning of each role is not a strict requirement:
 - Green - Rifleman
 - Yellow - Auto Rifleman
 - Orange - Designated Marksman
