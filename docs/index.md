@@ -29,7 +29,7 @@ LANCS must thank the [1st Rapid Response Force](https://documentation.1st-rrf.co
 - [The Infantry Squad and Fireteam](/infantry/the_squad_and_fireteam.md)
 - [Infantry Formations and Manoeuvres](/infantry/formations.md)
 - [Infantry Battle Drills](/infantry/battle_drills.md)
-- [OBUA - Operations in Built-Up Areas]()
+- [OBUA - Operations in Built-Up Areas](/infantry/obua.md)
 - [Weapon and Equipment List]()
 - [Basic Infantry Medical Manual]()
 - [Basic Infantry Communication]()
