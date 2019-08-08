@@ -51,7 +51,7 @@ Once the team has made breach the personnel will alternate their direction of tr
 > **Note**
   Corner rooms have slightly modified points of domination shown below:
 
-![Points of Domination](../img/domination2.png){:class="obua-img"}
+![Points of Domination - Corner Room](../img/domination2.png){:class="obua-img"}
 
 ### Room Clear
 At such a time that a member of the team believes the immediate room is clear, they will call out, "Room Clear!" or "Clear!", and then the Team Leader will call a status check in which the personnel should respond with their immediate need. If a soldier needs to reload or administer first aid he will call this out ("Magazine!" or "First Aid!") to the team and take a knee. Another member of the team will adjust to cover his arc of fire so security is maintained.
