@@ -12,7 +12,7 @@ As an infantryman in LANCS you will be expected to be able to perform operations
 ## Approaching a Structure
 A Team should approach a building in a modified file formation which is adjusted for security and speed of movement. The formation will be modified dynamically by the Team Leader to provide the maximum security during movement to the Breach.
 
-Take special care when the building you are approaching has windows. You should remain below the sight level of the window and keep strong security on the appeture so as to decrease detection probability and minimize the risk of hostiles inside firing out at the element.
+Take special care when the building you are approaching has windows. You should remain below the sight level of the window and keep strong security on the aperture so as to decrease detection probability and minimize the risk of hostiles inside firing out at the element.
 
 ## Performing a Breach
 
@@ -60,11 +60,11 @@ At such a time that a member of the team believes the immediate room is clear, t
 If a room is unable to fit a full team the team leader will call a short room. In this instance only two people should enter with the rest of the team maintaining security outside the breach.
 
 ## Hallways
-Clearing and moving in Hallways requires a different formation to the OBUA stack so that the element has the ability to securely maneouver within a confined linear space.
+Clearing and moving in Hallways requires a different formation to the OBUA stack so that the element has the ability to securely manoeuvre within a confined linear space.
 
 This formation is called the rolling T and provides good security up and down the hallways as well as allowing for flexible rotation around corners and intersections.
 
-The T is formed with two rifleman on point with the Team Leader in the centre and the autorifleman maintaining rear security.
+The T is formed with two rifleman on point with the Team Leader in the centre and the auto rifleman maintaining rear security.
 
 ![Rolling T](../img/rolling_t.png){:class="obua-img"}
 
@@ -80,23 +80,23 @@ Finally the team leader and auto rifleman will fall into position on the far sid
 ### Clearing a T Shaped Corridor with a Rolling T Formation
 To clear a T Shaped corridor the team will move stack on either side of the corridor and hold security on the opposite side of the corridor. The team leader will call a direction of travel once the T has been cleared.
 
-On order the pointmen will move into their respective sides of the T shaped intersection to engage and eliminate any threats present in the corridor.
+On order the point men will move into their respective sides of the T shaped intersection to engage and eliminate any threats present in the corridor.
 
 Once threats have been eliminated the Team Leader and rear security will move into the respective positions of the T formation, the formation will consolidate and the T will continue to move down the corridor in the direction of movement that the Team Leader has chosen.
 
 ![Rolling T - T-shaped Corridor](../img/rolling-t-intersection.png){:class="obua-img"}
 
 ### Clearing a Four Way Corridor with a Rolling T Formation
-On approaching a Four Way Corridor the pointmen will move to cover the hallways to the left and right of the formation respectively.
+On approaching a Four Way Corridor the point men will move to cover the hallways to the left and right of the formation respectively.
 
 The Team Leader and rear security will then cross the hallway and move to their respective positions.
 
-Finally the two pointmen will fall back into the formation in their positions, collapsing in from the side hallways and the T will continue movement.
+Finally the two point men will fall back into the formation in their positions, collapsing in from the side hallways and the T will continue movement.
 
 ![Rolling T - Four Way Corridor](../img/rolling-t-intersection-four.png){:class="obua-img"}
 
 ## Clearing Stairs
-When clearing stairs the team should form a stack with the first man maintaining forward security and the second man packed closely maintaining high side rear security to ensure no-one is shot from a landing area. The remainder of the team will follow the pointman up the stairs and reassume the necessary formation once the next floor is reached.
+When clearing stairs the team should form a stack with the first man maintaining forward security and the second man packed closely maintaining high side rear security to ensure no-one is shot from a landing area. The remainder of the team will follow the point man up the stairs and reassume the necessary formation once the next floor is reached.
 
 ## Visual Markings for OBUA
 OBUA has it's own SOPs for marking positions and buildings to indicate status. If you will be operating in an Urban Terrain during a mission you should equip yourself with the necessary equipment to utilize these markings.
