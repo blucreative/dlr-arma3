@@ -38,17 +38,17 @@ The team leader will call "breach" at which time the team should move to clear t
 
 Team members should alternate the direction of travel starting from the first man in. There is not a need to coordinate this information before the breach and it should be reactive.
 
-> **warning**: A common mistake for new soldiers is to think that the breaching team should move through the centre of the room. In general you should remain close to the walls during your movement to a point of domination so that you are not exposed to unnecessary angles.
+> **Warning**: A common mistake for new soldiers is to think that the breaching team should move through the centre of the room. In general you should remain close to the walls during your movement to a point of domination so that you are not exposed to unnecessary angles.
 
 ### Moving to a Point of Domination
 
-> **note**: A point of domination is a position in a room which provides strong, distinct and unimpeded firing angles in an OBUA environment.
+> **Note**: A point of domination is a position in a room which provides strong, distinct and unimpeded firing angles in an OBUA environment.
 
 Once the team has made breach the personnel will alternate their direction of travel and move to their points of domination. During movement care should be given to any windows or doors that may hold new threats. One should not cross a door whilst the current room is unclear - instead security should be set on the door to prevent any new targets entering through the breach.
 
 ![Points of Domination](~/img/domination1.png)
 
-> **note**
+> **Note**
   Corner rooms have slightly modified points of domination shown below:
 
 ![Points of Domination](~/img/domination2.png)
