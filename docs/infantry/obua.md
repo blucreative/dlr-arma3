@@ -75,7 +75,7 @@ On order the pointmen will conduct a high man / low man movement around the corn
 
 Finally the team leader and auto rifleman will fall into position on the far side of the corner and the T will continue movement down the corridor.
 
-![Rolling T Corner](../img/rolling-corner){:class="obua-img"}
+![Rolling T Corner](../img/rolling-corner.png){:class="obua-img"}
 
 ### Clearing a T Shaped Corridor with a Rolling T Formation
 To clear a T Shaped corridor the team will move stack on either side of the corridor and hold security on the opposite side of the corridor. The team leader will call a direction of travel once the T has been cleared.
