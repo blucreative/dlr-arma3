@@ -39,7 +39,6 @@ The following equipment items will be loaded into the uniform:
 * 1 x Map Tools
 * 1 x Flashlight (Maglite XL50)
 * 1 x ACE IR Strobe
-* (SL ONLY) 1 x AN/PRC-152
 * 3 x Green Chemlights
 * 3 x Red Chemlights
 
@@ -60,14 +59,12 @@ The following equipment items will be loaded into the vest:
 
 ### Backpack
 The following is a list of approved backpacks; they are role specific and offer the maximum carry capacity:
-
-* Bergen MTP Rifleman Light A-D variants (SL, TL, RM, GR)
-* Bergen MTP Rifleman Light C-D variants (AR)
+* Bergen MTP Rifleman Light A-D variants (Rifleman, Grenadier, Designated Marksman)
+* Bergen MTP Rifleman Light C-D variants (Auto Rifleman)
 * Bergen MTP Medic Light A-B variants (Medics)
-* Bergen MTP Radio Light A-B variants (RTOs or when carrying a LR Radio)
+* Bergen MTP Radio Light A-B variants (RadOps, Section Commanders, Platoon Commanders)
 
 The following equipment items will be loaded into the backpack:
-
 * FAK (6 x Field Dressings, 2x QuikClot, 2 x Morphine, 2 x Tourniquets, 1 Body Bag, 1x 500ml Saline IV)
 * (Non-AR ONLY) 2 x primary weapon magazines
 * (AR ONLY) 1 x 150rd box
@@ -102,7 +99,7 @@ Nightvision will be supplied as and when required, and is not part of the standa
 
 Members may elect to carry a standard or altimeter watch.
 
-Radio slot is used and will carry a TFAR radio.
+Radio slot is used and will carry an AN/PRC-152 radio.
 
 All members will carry a military 1:50,000 type map of the AO and a standard compass.
 
