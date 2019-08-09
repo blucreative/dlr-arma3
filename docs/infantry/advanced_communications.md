@@ -116,7 +116,7 @@ Tactical Reports and Requests will be covered in the next chapters.
 ### The NATO Phonetic Alphabet
 The NATO Phoentic Alphabet is used when an alphanumeric character needs to be expressed over the network.
 
-![Phonetic Alphabet](../img/NATO_alphabet.png){:style="margin:0px auto;"}
+![Phonetic Alphabet](../img/NATO_alphabet.png){:style="margin:0px auto;background-color:white;"}
 
 ### Brevity Codes
 Prowords - also often referred to as Brevity Codes - are specially defined words that have predefined special meanings.
