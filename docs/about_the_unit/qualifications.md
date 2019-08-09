@@ -78,7 +78,7 @@ Senior Leadership members will process the training module goals and, upon modul
 
 ### RadOps / Forward Observer Module
 - Has a correctly configured Arsenal loadout that complies with standard equipment guidelines
-- Knows how to configure and handle an TFAR radio
+- Knows how to configure and handle all Radio equipment.
 - Understands how to overcome terrain interference and provide actionable feedback to platoon leadership in order to maintain communications in hostile environments
 - Is able to provide a configured radio connection on the company net, monitor it for communications relevant to the platoon leader and keep him informed of developments on the Network
 - Understands the guidelines for employment of Indirect Fire
@@ -93,18 +93,18 @@ Senior Leadership members will process the training module goals and, upon modul
 - Is able to read pulses and can recall the safe and unsafe ranges
 - Is able to triage multiple casualties by wound severity
 - Knows how to make use of nearby infantry personnel to perform non trained roles such as CPR in support of ongoing treatment
-- Has fully read the LANCS "TC3 pipeline manual"
-- Understands how to establish a CCP in cooperation with the platoon sergeant to provide centralized medical care to infantry teams
-- Understands how to coordinate a MEDEVAC with the Platoon RTO including aircraft signalling and casualty hand off
-- Knows the limitations of the ACE medical system and how these are rectified within the RRF levels of care
-- Is able to render correct aid to casualties based on the injuries sustained and the state of their vital signs
+- Has fully read the LANCS "Casualty in Combat" Module
+- Understands how to establish an ERVP in cooperation with the platoon sergeant to provide centralized medical care to infantry teams
+- Understands how to coordinate a MEDEVAC/CASEVAC with the Platoon RadOps including aircraft signalling and casualty hand off
+- Knows the limitations of the ACE medical system and how these are rectified within the LANCS levels of care
+- Is able to administer correct aid to casualties based on the injuries sustained and the state of their vital signs
 - Understands how to maintain medical supply levels and knows the procedure to request medical resupply from the platoon sergeant
 
 ### Junior Leadership Module
 - Has read the "Leadership in LANCS" and understands how it relates to the role of the Section Commander and Section 2IC
 - Understands the concept of developing the skillset of those under him/her
 - Knows how to work as a fireteam leader in the standard section battle drills
-- Is able to effectively use a TFAR radio to tune to platoon network
+- Is able to effectively use radio equipment to tune to platoon network
 - Understands how to assume the role of the squad leader in the event of a leadership casualty
 - Knows how to perform the core radio reports ( ACE and SALUTE )
 - Has completed the AR, DMR, Night and OBUA training modules
@@ -115,7 +115,7 @@ Senior Leadership members will process the training module goals and, upon modul
 - Knows how to operate on a Platoon Radio Network including all the standard reports
 - Understands how to use the cTab to monitor squad and platoon activity
 - Understands the role of the Section/Platoon commander in developing the subordinate members of the squad
-- Understands the role of the Section/Platoon commander in coordinating and planning training excercises
+- Understands the role of the Section/Platoon commander in coordinating and planning training exercises
 - Understands how to use the website/forum to manage their squad timeline
 - Understands how to use the website/forum to assign and manage positions of their squad
 - Knows the SOP equipment guidelines and the strategies for their employment
@@ -128,13 +128,13 @@ Senior Leadership members will process the training module goals and, upon modul
 - Understands the role of the platoon sergeant as directly supporting the platoon leader
 - Understands how LANCS handles logistics and how to provision adequate resupply for the Sections
 - Understands platoon combat formations and battle drills and understands how to lead squads to accomplish them
-- Knows how to establish a CCP and resupply point
-- Knows how to work with medics to provision TC3 facilities in the combat environment
+- Knows how to establish a RVP and resupply point
+- Knows how to work with medics to provision CIC facilities in the combat environment
 - Understands how to handle POWs in line with the ROE and Laws of War
 
 ### Platoon Leader Module
 - Understands how to operate on a company level radio Network
-- Understands how to use a RadOps radio to accomplish long range communication
+- Understands how to use long-range radio equipment to accomplish long range communication
 - Is able to implement platoon level formations and battle drills by commanding the positioning of Sections
 - Understands how to work with the Platoon Sergeant to delegate logistics and leadership tasks within the platoon
 - Knows how to interact with the Platoon RadOp to call in appropriate IDF and CAS to accomplish the mission objective
