@@ -33,5 +33,5 @@ LANCS must thank the [1st Rapid Response Force](https://documentation.1st-rrf.co
 - [Weapon and Equipment List](/infantry/equipment.md)
 - [Basic Infantry Medical Manual](/infantry/basic_medical.md)
 - [Basic Infantry Communication](/infantry/basic_communication.md)
-- [Infantry Medic Manual](/infantry/advanced_medical.md)
-- [Advanced Infantry Radio Manual]()
+- [Advanced Infantry Medic Manual](/infantry/advanced_medical.md)
+- [Advanced Infantry Radio Manual](/infantry/advanced_communications.md)
