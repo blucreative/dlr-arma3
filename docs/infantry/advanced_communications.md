@@ -86,7 +86,7 @@ Messages are constructed of a Wrapper and a Message.
 The Wrapper refers to the standard prefix and suffix to any Message that correctly addresses and ends the communication.
 
 A Wrapper follows the following structure:
-- *"(RX), this is (TX), MESSAGE { Over | Out }"*
+*"(RX), this is (TX), MESSAGE ( Over | Out )"*
 
 Breaking this down by component:
 
