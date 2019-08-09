@@ -78,18 +78,14 @@ Senior Leadership members will process the training module goals and, upon modul
 
 ### RadOps / Forward Observer Module
 - Has a correctly configured Arsenal loadout that complies with standard equipment guidelines
-- Knows how to configure and handle an AN/PRC 177F radio
+- Knows how to configure and handle an TFAR radio
 - Understands how to overcome terrain interference and provide actionable feedback to platoon leadership in order to maintain communications in hostile environments
-- Understands the full configuration of all radios used within an infantry platoon and can assist other personnel with issues or interference encountered
-- Knows how to operate in a limited radio environment including how to communicate using radio relays from other callsigns and time spaced check-ins
 - Is able to provide a configured radio connection on the company net, monitor it for communications relevant to the platoon leader and keep him informed of developments on the Network
-- Knows how to provide the platoon leader with the radio handset from his 177F radio
 - Understands the guidelines for employment of Indirect Fire
 - Is able to correctly call for artillery fire and provide adjustments as a forward observer
 - Is proficient in all formalized reports and requests used on radio networks.
 - Understands how to call for a MEDEVAC, mark a necessary LZ and coordinate with the Platoon Medics to facilitate the transportation of the casualty
 - Knows how to organize a rotary extract by coordinating with Aviation and marking a suitable LZ.
-- Understand how to use the Kestrel to make a landing site assessment for an airframe
 
 ### Infantry Medic Module
 - Has a correctly configured Arsenal loadout that complies with standard equipment guidelines
@@ -108,7 +104,7 @@ Senior Leadership members will process the training module goals and, upon modul
 - Has read the "Leadership in LANCS" and understands how it relates to the role of the Section Commander and Section 2IC
 - Understands the concept of developing the skillset of those under him/her
 - Knows how to work as a fireteam leader in the standard section battle drills
-- Is able to effectively use a AN/PRC 152 radio to tune to platoon network
+- Is able to effectively use a TFAR radio to tune to platoon network
 - Understands how to assume the role of the squad leader in the event of a leadership casualty
 - Knows how to perform the core radio reports ( ACE and SALUTE )
 - Has completed the AR, DMR, Night and OBUA training modules
