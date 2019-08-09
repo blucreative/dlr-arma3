@@ -87,7 +87,7 @@ The Wrapper refers to the standard prefix and suffix to any Message that correct
 
 A Wrapper follows the following structure:
 
-*"(RX), this is (TX), MESSAGE ( Over | Out )"*
+*"(RX), this is (TX), MESSAGE ( Over / Out )"*
 
 Breaking this down by component:
 
