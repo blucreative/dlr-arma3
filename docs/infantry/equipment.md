@@ -39,7 +39,6 @@ The following equipment items will be loaded into the uniform:
 * 1 x Map Tools
 * 1 x Flashlight (Maglite XL50)
 * 1 x ACE IR Strobe
-* 1 x AN/PRC-343 Squad Radio
 * (SL ONLY) 1 x AN/PRC-152
 * 3 x Green Chemlights
 * 3 x Red Chemlights
@@ -103,9 +102,9 @@ Nightvision will be supplied as and when required, and is not part of the standa
 
 Members may elect to carry a standard or altimeter watch.
 
-Radio slot is not used; TFAR radios will be carried in the uniform.
+Radio slot is used and will carry a TFAR radio.
 
 All members will carry a military 1:50,000 type map of the AO and a standard compass.
 
 ### Barracks Uniform
-Memebers not engaged in training or operations may elect to wear the Barracks uniform.  It consists of the British Armed Forces uniform, 2 secondary magazines, sidearm, and approved cap/beret.
+Members not engaged in training or operations may elect to wear the Barracks uniform.  It consists of the British Armed Forces uniform, 2 secondary magazines, sidearm, and approved cap/beret.
