@@ -16,7 +16,7 @@ Each living person in the battlespace has three key metrics which define their s
   * Pulse
   * Responsive State ( Are they conscious? )
 
-**Blood Volume**
+**Blood Volume**\\
 Blood volume is measured via blood pressure, which in turn is measured by systolic and diastolic blood pressure - often expressed in the form ( systolic / diastolic ).
 
 In ARMA you only need to pay attention to the systolic blood pressure to diagnose a condition. You can categorize blood pressure into colour categories as follows:
@@ -27,7 +27,7 @@ In ARMA you only need to pay attention to the systolic blood pressure to diagnos
 
 In the treatment section you will find out how to deal with these blood pressures.
 
-**Pulse**
+**Pulse**\\
 The Pulse - an indication of Heart Rate or Arterial Palpation - is the number of beats per minute that the patient's heart makes.
 
 In ARMA we classify these into categories:
@@ -38,7 +38,7 @@ In ARMA we classify these into categories:
 
 Blood pressure is affected by the patient's blood volume and administered medication.
 
-**Responsive State**
+**Responsive State**\\
 If a patient's pulse or blood volume falls to low the patient will become unconscious ( non-responsive ). Unconscious states can also be prompted by sudden impacts such as car or helicopter crashes as well as being the result of chemical use such as morphine.
 
 Responsiveness has two categories:
@@ -60,26 +60,26 @@ Each injury type also has a set of treatment procedures that are best suited for
 
 The injury types are:
 
-**Abrasions**
+**Abrasions**\\
 An Abrasion is a wound caused by friction. Examples include Vehicle Crashes and Rope Burn. This wound type has a **low** pain effect and an **extremely slow** bleed rate.
 
-**Avulsions**
+**Avulsions**\\
 An Avulsion is when an entire structure is separated from the body. Examples include lost teeth or an ear lobe. These are caused by explosions, shrapnel and any other situation which could sever a body part.
 
 Avulsions have an **extremely high** pain effect with an **extremely fast** bleed rate.
 
-**Contusions**
+**Contusions**\\
 Contusions, commonly known as Bruises, are caused by traumas that injure an internal structure without breaking the skin. Blunt blows to areas such as the chest or head can cause contusions.
 
 > **Note**: Due to poor modelling in ARMA contusions do not cause blood loss
 
-**Lacerations**
+**Lacerations**\\
 Lacerations are wounds with ragged edges. They are produced by large forces exerted on the body. Lacerations have a **light** pain effect with a **slow** bleed rate.
 
-**Velocity Wound**
+**Velocity Wound**\\
 A Velocity wound is caused by objects entering the body at speed, such as shrapnel or bullets. Velocity wounds have an **extremely high** pain effect with a **medium** bleed rate.
 
-**Puncture Wounds**
+**Puncture Wounds**\\
 A puncture wound is a narrow wound produced by a sharp object such as a knife. Puncture wounds have a **light** pain effect with a **slow** bleed rate.
 
 ### Injury Sizes
@@ -116,19 +116,19 @@ In this section we will explore the individual treatment options and the decisio
 
 ### Treatments
 
-**Bandages**
+**Bandages**\\
 ACE provides four different type of bandages - each with a different level of effectiveness on a given wound type.
 
 ![Bandage Type & Effectiveness](https://ace3mod.com/img/wiki/feature/medical1.jpg){:style="margin: 0px auto;"}
 
 Bandages are used to pack wounds to reduce bleeding and providing a surface for blood to clot against. Bandages are temporary solutions and wounds will require stitching to repair permanently.
 
-**Tourniquets**
+**Tourniquets**\\
 Tourniquets are pressure devices used to prevent blood flowing into a limb. Due to the nature of the device they are highly effective at bleeding reduction in the limbs stopping bleeding entirely.
 
 The downside of tourniquets is that they put the patient in a lot of pain if they are left on too long - sometimes to the point of rendering the patient unconscious.
 
-**IVs**
+**IVs**\\
 ACE provides two types of intravenous bag that can be administered to patients. All IVs are used to help restore blood volume.
 
 The first type is Saline which is used to rapidly provide blood volume to a patient. Saline is a double edged sword as it reduces blood clotting meaning that bleeding can be intensified by overuse of saline IVs. It is useful for restoring patient's who have lost a little blood or stabilizing patients who are suffering  cardiac failure due to low blood pressure until CASEVAC arrives.
@@ -137,7 +137,7 @@ The second type of IV is a blood transfusion. Blood transfusions restore blood v
 
 > **Note**: We do not simulate blood types in game.
 
-**Injected Drugs**
+**Injected Drugs**\\
 ACE provides three types of Autoinjector for injecting drugs. Drugs are used to manipulate the pulse and to reduce pain levels.
 
 The first and most common autoinjector is Morphine which reduces the pain experienced by the patient. It also has side effects of reducing the patient's blood pressure and heart rate, reducing it by around 20 BPM.
@@ -146,12 +146,12 @@ The second autoinjector is Epinephrine - more commonly known as Adrenaline. This
 
 The third autoinjector is Atropine - a muscle relaxant - which lowers the heart rate of the patient by approximately 20 BPM.
 
-**Surgical Kits**
+**Surgical Kits**\\
 Surgical Kits allow the bearer ( assuming they are medic qualified ) to sew wounds closed to prevent them from reopening.
 
 Surgical kits are available to all medics in the group - but do require that the user be inside a medical vehicle or facility.
 
-**Personal Aid Kits**
+**Personal Aid Kits**\\
 The Personal Aid Kit is a one hit Jesus level wonder of modern medicine that instantly restores the user to full health in every way. This glorious and remarkable achievement can only be performed in a Level 2 medical facility.
 
 ### Providing Aid to a Patient
@@ -212,7 +212,7 @@ At this stage the Platoon RadOp will advise if the CASEVAC will be land or air b
 
 Detailed below are the procedures to follow for a land and air based CASEVAC.
 
-**Land Based CASEVAC**
+**Land Based CASEVAC**\\
 A Land Based CASEVAC is conducted by a medical team on the ground with an ambulance.
 
 The Medical team at the ERVP should prepare the casualty for transport. This might include ensuring that bleeding has been well controlled and that a fresh IV is in place if necessary.
@@ -227,7 +227,7 @@ Once at base the ambulance will pull into the Level 2 facility and the casualty 
 
 > **Note**: In some cases the CASEVAC team will act as the Level 2 facility. In this case they should take the casualty inside the facility and use a Personal Aid Kit.
 
-**Air Based CASEVAC**
+**Air Based CASEVAC**\\
 An air based CASEVAC is conducted by a medical team embedded within a transport airframe. Air based CASEVACs are more complicated than land based CASEVACs as they must comply with the additional complications of aviation cooperation.
 
 Similar to a land based CASEVAC the ERVP team should prepare the casualty for CASEVAC and get them moved to an area close to the LZ.
