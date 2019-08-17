@@ -35,3 +35,6 @@ LANCS must thank the [1st Rapid Response Force](https://documentation.1st-rrf.co
 - [Basic Infantry Communication](/infantry/basic_communication.md)
 - [Advanced Infantry Medic Manual](/infantry/advanced_medical.md)
 - [Advanced Infantry Radio Manual](/infantry/advanced_communications.md)
+
+### Basic Training
+- [Basic Formalities](/basic-training/basic-formalities.md)
