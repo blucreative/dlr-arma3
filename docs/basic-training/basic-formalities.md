@@ -36,7 +36,7 @@ Uniforms are managed through the Virtual Loadout Editor/Arsenal.
 
 Combat Uniforms will be issued by the command structure at the beginning of the operation, but are strictly based on British military uniforms.
 
->> **Warning**: LANCS start and end all operations in a Barracks, either our home base, or Forward Operating Bases whilst on deployment. Primary weapons and equipment should not be carried on-base unless being briefed for deployment. Unauthorised carrying of weapons or equipment will result in disciplinary action.
+> **Warning**: LANCS start and end all operations in a Barracks, either our home base, or Forward Operating Bases whilst on deployment. Primary weapons and equipment should not be carried on-base unless being briefed for deployment. Unauthorised carrying of weapons or equipment will result in disciplinary action.
 
 ### Rank Use
 Ranks should only be used on base and never in a deployment environment.
@@ -47,4 +47,4 @@ Accidental or unauthorised discharge of a weapon on base is cause for disciplina
 ### Fratricide
 Fratricide is forbidden on any LANCS asset at any time under any circumstance. Fratricide will be met with automatic disciplinary action and any punishment will be decided by the Unit Commander in line with the disciplinary guidelines.
 
->> **Danger**: We do not play soft ball when it comes to fratricide of any kind. It completely undermines our environment. This includes mercy killing and euthanasia. Fratricide is one of the fastest way out of this unit.
+> **Danger**: We do not play soft ball when it comes to fratricide of any kind. It completely undermines our environment. This includes mercy killing and euthanasia. Fratricide is one of the fastest way out of this unit.
