@@ -18,14 +18,19 @@ LANCS must thank the [1st Rapid Response Force](https://documentation.1st-rrf.co
 
 ### Unit Policies and structure
 - [Unit Structure](/about_the_unit/structure.md)
+- [Laws of War](/infantry/law_of_war.md)
+- [Rules of Engagement](/infantry/roe.md)
 - [Qualification Programs](/about_the_unit/qualifications.md)
 - [Ranks and Promotions](/about_the_unit/rank.md)
 - [Disciplinary Policy](/about_the_unit/disciplinary_policy.md)
 
-### Infantry Manuals
-- [Laws of War](/infantry/law_of_war.md)
-- [Rules of Engagement](/infantry/roe.md)
-- [Weapons and Marksmanship](/infantry/weapons_and_marksmanship.md)
+### Basic Training
+- [Basic Formalities](/basic-training/basic-formalities.md)
+- [Weapons and Marksmanship](/basic-training/weapons_and_marksmanship.md)
+- [Weapon Familiarisation](/basic-training/weapon-familiarisation.md)
+- [Weapon Qualification](/basic-training/weapon-qualification.md)
+
+### Infantry Training
 - [The Infantry Squad and Fireteam](/infantry/the_squad_and_fireteam.md)
 - [Infantry Formations and Manoeuvres](/infantry/formations.md)
 - [Infantry Battle Drills](/infantry/battle_drills.md)
@@ -35,6 +40,3 @@ LANCS must thank the [1st Rapid Response Force](https://documentation.1st-rrf.co
 - [Basic Infantry Communication](/infantry/basic_communication.md)
 - [Advanced Infantry Medic Manual](/infantry/advanced_medical.md)
 - [Advanced Infantry Radio Manual](/infantry/advanced_communications.md)
-
-### Basic Training
-- [Basic Formalities](/basic-training/basic-formalities.md)
