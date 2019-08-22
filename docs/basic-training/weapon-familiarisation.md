@@ -10,7 +10,7 @@ Friendly Fire will always result in disciplinary action automatically and in all
 All weapons in the LANCS environment are fitted with Safety switches. These are activated by pressing ``Shift + ( the button directly left of the 1 key - varies by national keyboard )``. You can check your control settings if you struggle to find the key. This safety catch will prevent accidental discharges and other problematic events.
 
 ## The Rules of Weapon Safety
-1. Do not point your weapon at anything you do not intend to kill. The weapon should remain in the rest position when not in use.
+1. **Do not point your weapon at anything you do not intend to kill**. The weapon should remain in the rest position when not in use.
 2. In safe areas where security is maintained, magazines should be removed from the weapon system and on supporting weapons the safety engaged.
 3. Do not discharge your weapon for any reason other than combat engagement ( Celebration Shots and Direction Indicating Shots waste ammo and risk lives ).
 
