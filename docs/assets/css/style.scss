@@ -21,7 +21,11 @@ h2 {
   color: $color-white;
 }
 
-h3 {color: $color-grey;}
+h3 {
+   color: $color-grey;
+   text-decoration: underline;
+   text-decoration-color: $color-red;
+}
 
 h4 {
   color: $color-grey;
