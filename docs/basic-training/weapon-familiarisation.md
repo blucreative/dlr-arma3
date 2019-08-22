@@ -32,6 +32,8 @@ Only one pistol is cleared for use in LANCS:
 **L131A1 – Glock 17 General Service Pistol**\\
 The Glock 17 Gen 4 pistol is much lighter than its predecessor, Browning pistol, and more accurate. It also has an increased magazine capacity of 17 x 9mm rounds, compared to 13 rounds for the Browning.
 
+* * *
+
 ### Assault Rifles
 
 **L85A2 SA80IW Assault Rifle**\\
@@ -48,6 +50,8 @@ When fired from the integrated bipod and using the standard SUSAT sight, the LSW
 
 Recently, the LSW has been redesigned to operate as a Sharpshooter rifle, but is not the preferred Sharpshooter rifle for LANCS.
 
+* * *
+
 ### Grenade Launchers
 
 **L123A2 Underslung Grenade Launcher (UGL)**\\
@@ -57,6 +61,8 @@ The AG36 is a single-shot 40 mm grenade launcher that operates on the High-Low S
 
 The UGL allows fire teams to deliver effective fragmenting munitions out to 350 metres. Advantages of the system are low recoil, ease of use, reduced ammunition weight and ability to have a chambered grenade at the ready whilst continuing to fire the SA80.
 
+* * *
+
 ### Designated Marksman/Sharpshooter Rifles
 
 **L86A2 LSW Sharpshooter Variant**\\
@@ -64,6 +70,8 @@ One of the DMR options within LANCS is the L86A3 LSW. The differences between th
 
 **L129A1 Sharpshooter Rifle**\\
 The sharpshooter rifle has improved the long-range firepower available on the front line. The rifle fires a 7.62mm round and has enhanced accuracy of engagement during longer-range firefights. This weapon is used by some of the best shots in the infantry. This weapon uses a 20 Round detachable box magazine.
+
+* * *
 
 ### Light Machine Guns
 **L7A2 General Purpose Machine Gun (GPMG)**\\
@@ -80,6 +88,8 @@ Developed from the Minimi Light Machine Gun following experience in Iraq and Afg
 
 The LMG complements the Light Support Weapon and enhances the effectiveness of all section weapons across the spectrum of infantry operations.
 
+* * *
+
 ### Heavy Machine Guns
 **L111A1 HMG**\\
 The L111A1 HMG is a .50 (12.7mm) caliber heavy machine gun. The HMG is a modernised version of the American-made Browning M2, which served with distinction during World War 2. The belt-fed HMG fires at a rate of 485-635 rounds-per-minute to a range up to 2000 meters. HMGs are mounted on tripods and they can also be mounted to WMIK Land Rovers. The stopping power of the HMG's 12.7mm rounds is excellent and can take on light armour and soft skinned vehicles.
@@ -93,11 +103,15 @@ The GMG combines the advantages of both of these two types of weapons delivering
 
 The GMG is usually mounted on WMIK (weapons mount installation kit) Land Rovers but can also be used from ground-based tripods.
 
+* * *
+
 ### Shotguns
 **L128A1 Combat Shotgun**\\
 The Combat Shotgun is a semi-automatic, tubular magazine-fed weapon cambered for the 12 gauge cartridge.
 
 The operating system is the ARGO (Auto-Regulating Gas Operated) Twin (two gas pistons) System with a rotating bolt head and dual locking lugs. It is fitted with an EOT tech sight for use day or night and a fixed iron sight. It has a telescopic buttstock. It can be fired from the conventional fire positions, except the squatting position.
+
+* * *
 
 ### Sub Machine Guns
 > **Note**: Sub Machine Guns are very rarely used by LANCS, however we actively train with them and they are a common choice for our kill-house timed clearance competitions.
@@ -108,6 +122,8 @@ The MP5 is a compact sub machine gun in use since the late 70s. The MP5A3 (L91A1
 The 9x19mm Parabellum round fired by the MP5 was preferred in hostage rescue scenarios as it was deemed less likely to pass through the target (or walls) and strike a hostage. The prevalance of body armour, however, means that modern-day counter terrorist (CT) teams may elect to instead employ a short-barrelled carbine chambered in 5.56 x 45mm NATO.
 
 A further variant of the weapon, the MP5SD, with an integrated suppressor, is used for dealing with sentries or any other threat that needs to be neutralised quietly. When used with sub-sonic ammunition, the MP5SD is extremely quiet.
+
+* * *
 
 ### Sniper Rifles
 **L118A1/L96A1 Accuracy International AWC Long Range Rifle**\\
@@ -130,6 +146,8 @@ The Barrett M82 is a semi-automatic anti-material rifle created by the American 
 The L135A1 is used as an anti-materiel weapon and EOD (explosive ordnance disposal) tool. The long effective range along with high energy ammunition allows for effective operations against targets like radar cabins, trucks, parked aircrafts and soon. It also can be used to defeat enemy snipers or criminals from stand off range or when targets are behind the cover, but the anti-personnel work is not a major application for this weapon.
 
 In order to use this weapon within LANCS, a solider must have achieved the highest grade possible in marksman training and show the right level of judgement and character when performing sniper/long range objectives. This weapon is rarely deployed by LANCS due to its destructive nature and the high possibility of player abuse.
+
+* * *
 
 ### Launchers/Guided Weapons
 
